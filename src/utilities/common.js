@@ -1,0 +1,1 @@
+export const PUBLIC_URL = "https://api.ezfrontend.com"
